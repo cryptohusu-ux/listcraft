@@ -1,0 +1,6 @@
+{
+  "name": "Liste Blogu İçerik Stratejisti",
+  "description": "Liste blogları (listicle) için başlık önerileri, içerik maddeleri, sürükleyici açıklamalar ve dikkat çekici görsel fikirleri üreten akıllı içerik strateji aracı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
